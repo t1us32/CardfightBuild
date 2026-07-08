@@ -1,0 +1,18 @@
+{
+    "product":  "Cardfight",
+    "version":  "1.0",
+    "buildFolder":  "",
+    "github":  {
+                   "repoUrl":  "https://github.com/t1us32/CardfightBuild",
+                   "releaseUrl":  "https://github.com/t1us32/CardfightBuild/releases/latest",
+                   "manifestUrl":  "https://raw.githubusercontent.com/t1us32/CardfightBuild/master/manifest.json",
+                   "rawBaseUrl":  "https://raw.githubusercontent.com/t1us32/CardfightBuild/master"
+               },
+    "googleDrive":  {
+                        "cardsUrl":  null,
+                        "enabled":  false
+                    },
+    "installer":  {
+                      "downloadCardsCheckboxDefault":  true
+                  }
+}
