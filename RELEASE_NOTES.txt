@@ -1,7 +1,7 @@
 ﻿Cardfight release prepared from: C:\Users\kocmichy\AppData\Local\Temp\CardfightPublishSource_c29c19d6b28543f6aa096041e33caa67
 Repository root: C:\udemy\Cardfight - Copy
 Version: 1.0
-Build root: C:\Users\kocmichy\AppData\Local\Temp\CardfightPublishOut_d757e8c20e6245f598ecf5115bccf2ec
+Build root: C:\Users\kocmichy\AppData\Local\Temp\CardfightPublishOut_3da6a0bdc73140a3860c107ab3f56a61
 
 Upload/commit these paths:
   root build files/

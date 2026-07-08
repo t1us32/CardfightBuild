@@ -2222,6 +2222,11 @@
                       "sha256":  "6d1e00edc19ad61a2fccfc0eb50d24efa086457d39976cec5d49c1d3f3898308"
                   },
                   {
+                      "path":  "litvin.png",
+                      "source":  "litvin.png",
+                      "sha256":  "c78c0dac3fc3c69913855abfe638842f160d64ef68920540361dafdbdfc31ba3"
+                  },
+                  {
                       "path":  "menu_crest.png",
                       "source":  "menu_crest.png",
                       "sha256":  "dc26efd5d3893979a4ab3f5f38f77b6a5fa398919e8ecb8804c5ed6c6e9cd3c7"
@@ -3760,6 +3765,11 @@
                       "path":  "WinPixEventRuntime.dll",
                       "source":  "WinPixEventRuntime.dll",
                       "sha256":  "81adcfd8253c3489be720da7e30f16004dc9a1f02a8b418c6c3aef4993032e6d"
+                  },
+                  {
+                      "path":  "zvuk-litvina.mp3",
+                      "source":  "zvuk-litvina.mp3",
+                      "sha256":  "e109c8523b4444f923bc54c1c8ac081f653d45cfa459b5d978e760521f8940ac"
                   }
               ],
     "cardsPack":  {
