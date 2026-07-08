@@ -1,0 +1,62 @@
+{
+  "product": "Cardfight",
+  "buildVersion": "1.38.0",
+  "buildFolder": "123",
+  "sourceRepository": "https://github.com/t1us32/CardfightBuild",
+  "generatedFrom": "release scaffold",
+  "files": [
+    {
+      "path": "ExportedProject.exe",
+      "source": "123/ExportedProject.exe"
+    },
+    {
+      "path": "snd_create.wav",
+      "source": "123/snd_create.wav"
+    },
+    {
+      "path": "snd_damage.wav",
+      "source": "123/snd_damage.wav"
+    },
+    {
+      "path": "snd_dimbox.wav",
+      "source": "123/snd_dimbox.wav"
+    },
+    {
+      "path": "snd_eyeflash.wav",
+      "source": "123/snd_eyeflash.wav"
+    },
+    {
+      "path": "snd_levelup.wav",
+      "source": "123/snd_levelup.wav"
+    },
+    {
+      "path": "snd_lightswitch.wav",
+      "source": "123/snd_lightswitch.wav"
+    },
+    {
+      "path": "snd_pullback.wav",
+      "source": "123/snd_pullback.wav"
+    },
+    {
+      "path": "snd_shakerbreaker.wav",
+      "source": "123/snd_shakerbreaker.wav"
+    },
+    {
+      "path": "snd_sparkle1.wav",
+      "source": "123/snd_sparkle1.wav"
+    },
+    {
+      "path": "snd_squeak.wav",
+      "source": "123/snd_squeak.wav"
+    },
+    {
+      "path": "snd_tempbell.wav",
+      "source": "123/snd_tempbell.wav"
+    }
+  ],
+  "cardsPack": {
+    "enabled": false,
+    "googleDriveUrl": null,
+    "targetFolder": "GameData/Cards"
+  }
+}
